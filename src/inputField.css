@@ -1,0 +1,19 @@
+.inputField {
+  position: relative;
+  top: 1;
+  left: 1;
+  width: "400px";
+  height: "40px";
+  border: "1px solid transparent";
+}
+
+.inputField:focus {
+  border: "1px solid transparent";
+}
+
+.select-field {
+  position: "absolute";
+  width: "500px";
+  height: "50px";
+  color: "black";
+}
